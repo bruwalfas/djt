@@ -1,0 +1,88 @@
+,Timestamp,"Feedback, complaints, issues, errors, suggestions, etc.","
+"
+,6/11/2015 15:04:13,test,
+added,6/11/2015 16:10:37,"Suggestion
+
+Maybe it could be another entry for Tools chapter in the Guide:
+
+(http://sourceforge.net/projects/jnovelformatter/files/) JNovel Formatter (Windows) - a utility that will convert Japanese novels (in .txt) to nicely formatted HTML files. It enables you to use text hookers (Rikaisama, Rikaichan) while reading LNs/novels. A massive collection of .txt books can be found in the CoR ('400+MB assorted LN txt file format').
+
+It should  explain sufficiently what the program does, the page in the link explains how to use it, I don't think that it needs any more information. If you want any more info you can probably find me in DJT.",
+"added
+",6/11/2015 21:26:05,">sourceforge
+Can we get a mirror of that off of sourceforce? They're adding malware to installers. Author doesn't seem to be dead so contacting them to migrate to github, gitlab, bitbucket, or anywhere else that might be an option.",Option 1
+pending,6/11/2015 21:26:39,Kill yourself,
+email added to form,11/06/2015,"I was hoping I could find your email address somewhere, but this seems to be the only way to contact you as of now.
+
+First off to compliment you for your enthusiasm. The new DJT website is gorgeous and the Cornucopia of Resources is great work too.
+
+Given that you obviously interested in improving what the DJT has to offer to learners, I was hoping we could come into contact via Email. Please drop me a message at seidenfisch@gmail.com
+
+Cheers,
+Current Overseer of the Guide",
+added,6/11/2015 22:40:29,"Lookup resources (somewhere):
+
+ichi.moe - http://ichi.moe (like dictionary, but can split entire sentences into words)
+
+Also for kanji lookup: 
+
+Multiradical kanji search - http://kanji.sljfaq.org/mr-old.html
+
+
+",Option 1
+it's fixed as it is,6/12/2015 9:45:34,"crikey mate, fix the vertical text",
+grammar section currently undergoing overhaul: fixing typos and adding formation sections to each grammatical concept. Documentation will be updated throughout. Current .pdf suited to ebook and pdf readers for both desktop and mobile devices. ,6/13/2015 8:21:46,"Very useful directory you have made here. The resources were already great but now grammar is very easy to look up. Thanks a lot for doing this, dude(s?).",Option 1
+"unreal
+",6/13/2015 8:48:13,">picture of text
+Are you for real?",
+"unreal
+",6/13/2015 8:47:12,">picture of text
+Are you for real?",
+added,6/13/2015 13:14:58,"The japanese text-to-speech program Aquestalk2 that's commonly used on nico isn't really usable on Linux due to the Kanji2Koe library requiring a payed license, and there is no alternative for Linux without using WINE.
+
+But I figured out how to remove the restriction on the demo library of K2K. It's a simple hex edit, but it was difficult to find the correct value, so I'm kind of proud of myself.
+Anyways, I put all the necessary files together in a nice package (aquestalk2, k2k with the hacked library, and all the available voices) and made some scripts to make it easy to install and change voices.
+
+If anyone is interested you can find the links in this pastebin (since 4chan thinks it's spam if I put the links here)
+http://pastebin.com/9xRPNVzp
+
+In the above pastebin I also included a description of you how can do the whole thing yourself if you don't want to trust the files I provided.
+
+I hope someone else finds this useful
+I can now make my Linux machine say ゆっくりしていってね！",
+added,6/13/2015 13:16:11,"Hello
+
+I posted in DJT about how to get the japanese text-to-speech program Aquestalk2 + AqKanji2Koe fully working on Linux for free.
+
+Someone suggested that I might try submitting that info here.
+
+So here is the post I made with all the details: https://archive.moe/a/thread/126648243/#126655535
+
+If this isn't the sort of thing you care for that's fine, I just thought I'd take the suggestion and mention it here.
+Thank you for your time.",
+added,6/13/2015 14:05:03,"Please add this to the Japanese Text-to-Speech entry in the Guide: 
+http://pastebin.com/qmke4V4g
+Pastebin contains updated instructions including setting up on non-linux systems. ",
+added,6/13/2015 20:01:20,"File replacement for 
+詰め合わせ 一        300+MB assorted LN azw3 file format
+https://mega.co.nz/#!AFZhHZRC!Of_-rES-PplQlH1VHDqcKPCqTCl0XJa86D1phQPX-nk",
+どういたしまして,6/14/2015 13:21:10,Thanks for what you provide.,Option 1
+"Stage 1: adding page reference to concepts (added) / Stage 2: adding master index section (working on)
+",6/15/2015 3:14:29,"Suggestion: An awesome feature for the DOJG Reference would be to add the corresponding page in the actual dictionary for each of the grammar point. For example: ~wa ~da -- basic p. 521. That way it'd serve as a full online replacement for the DOAJG index and it'd be much easier to search for the formation, grammar notes and related expressions of a specific grammar point.
+
+There's also more ""hidden"" grammar points that appear in the indexes that don't appear explicitly in the dictionary headers (like ~zu ~ni being contained in ~nai de header) that could also be added for a more complete index.",
+added 日本語文型辞典,6/15/2015 9:22:17,"https://mega.co.nz/#F!CJsyyQba!4-lBCt7NBlG2GbWR_jF4lA
+
+It's this: http://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%96%87%E5%9E%8B%E8%BE%9E%E5%85%B8-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B8%E3%83%A3%E3%83%9E%E3%82%B7%E3%82%A4/dp/4874241549",
+added,6/15/2015 21:14:02,"Quoted from DJT thread: 
+「Here's an advanced deck for the RTK fags out there displaying the stroker orders, stories, readings, etc for all the Kanji.
+
+https://mega.co.nz/#!aMEmFD4J!HooqfWq35OtV0btswWdWO6E7L30doIO06qRp5YtNnEY
+
+I'll keep it uploaded for a while. The reason I'm sharing it is because the original download link is dead, you can't find this deck anymore.
+Hopefully you guys spread it among other RTK fags, this deck is too good and too handy to be lost.」",
+added,6/15/2015 23:45:48,"JLPT N3 to N1 textbooks not currently found in the 大きな豆倉庫
+https://mega.co.nz/#F!AZJFBRSA!xP0oShMAU3SKrgXrB01GGQ
+
+召し上がって",
+Forum: http://yomogi.2ch.net/gogaku/,6/16/2015 2:12:57,"I love you, also you should have a forum of some kind. ",
